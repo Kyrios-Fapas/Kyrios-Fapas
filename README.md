@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **py,js**
 
-- 📫 How to reach me **You Can Reach Throu My Discord Fapas#4549 Or My Twitter https://www.twitter.com/O_Fapas**
+- 📫 How to reach me **You Can Reach By My Discord Fapas#4549 Or My Twitter https://www.twitter.com/O_Fapas**
 
 - ⚡ Fun fact **I have friend's😀**
 
