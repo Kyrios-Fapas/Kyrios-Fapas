@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fapas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrios-fapas&label=Profile%20views&color=b40ea6&style=plastic" alt="kyrios-fapas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyrios-fapas" alt="kyrios-fapas" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/o_fapas" target="blank"><img src="https://img.shields.io/twitter/follow/o_fapas?logo=twitter&style=for-the-badge" alt="o_fapas" /></a> </p>
 
 - 🌱 I’m currently learning **py,js**
