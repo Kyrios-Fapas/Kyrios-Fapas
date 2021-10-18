@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **py,js**
 
-- 📫 How to reach me **You Can Reach By My Discord Fapas#4549 Or My Twitter https://www.twitter.com/O_Fapas**
+- 📫 How to reach me **You Can Reach By My Discord blc#7294 Or My Twitter https://www.twitter.com/O_Fapas**
 
 - ⚡ Fun fact **I have friend's😀**
 
@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/o_fapas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="o_fapas" height="30" width="40" /></a>
 <a href="https://instagram.com/kyrios_fapas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="kyrios_fapas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCF2XvA5kq3209uRmcoeTeFw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="fapas" height="30" width="40" /></a>
-<a href="https://discord.gg/3w4NZ43T8d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="3w4NZ43T8d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCF2XvA5kq3209uRmcoeTeFw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="Your Meme Got Stolen" height="30" width="40" /></a>
+<a href="https://discord.gg/vNpGDaVnFG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="vNpGDaVnFG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
